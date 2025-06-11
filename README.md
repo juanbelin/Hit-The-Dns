@@ -1,3 +1,3 @@
 # Hit-The-Dns
 
-![Logo](/images/logo.png)
+![Logo](assets/images/Logo.png)
