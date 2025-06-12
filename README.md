@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/fa2420e5-3267-4568-bfa3-fc597894c4ba
 
 ### DNS Fuzzing verbose mode  
 ```
-./hit-the-dns -d test.com -i 10.10.2.15 -w /path/to/wordlist.txt
+./hit-the-dns -d test.com -i 10.10.2.15 -w /path/to/wordlist.txt -v
 ```
 
 ### DNS Fuzzing verbose mode  
