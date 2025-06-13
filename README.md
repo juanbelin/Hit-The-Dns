@@ -3,6 +3,12 @@
 ![Logo](assets/img/Logo.png)
 
 
+## Instalation 
+
+git clone 
+
+
+
 ## Example Usage
 
 ### DNS Fuzzing 
@@ -18,18 +24,43 @@ https://github.com/user-attachments/assets/fa2420e5-3267-4568-bfa3-fc597894c4ba
 ./hit-the-dns -d test.com -i 10.10.2.15 -w /path/to/wordlist.txt -v
 ```
 
-### DNS Fuzzing verbose mode  
-cheking dns.logs 
+### cheking dns.logs and following the next step
+![image](https://github.com/user-attachments/assets/257d4d61-3936-43cd-bfc2-0b0cc1990872)
+
 
 
 
 ## Usage 
 ```
-./hit-the-dns -d test.com -i 10.10.2.15 -w /path/to/wordlist.txt
+./hit-the-dns.sh
+
+
+
+ █████   █████  ███   █████                                                             
+░░███   ░░███  ░░░   ░░███                                                              
+ ░███    ░███  ████  ███████                                                            
+ ░███████████ ░░███ ░░░███░                                                             
+ ░███░░░░░███  ░███   ░███                                                              
+ ░███    ░███  ░███   ░███ ███                                                          
+ █████   █████ █████  ░░█████                                                           
+░░░░░   ░░░░░ ░░░░░    ░░░░░                                                            
+
+              █████    █████                  ██████████   ██████   █████  █████████    
+             ░░███    ░░███                  ░░███░░░░███ ░░██████ ░░███  ███░░░░░███   
+             ███████   ░███████    ██████     ░███   ░░███ ░███░███ ░███ ░███    ░░░    
+            ░░░███░    ░███░░███  ███░░███    ░███    ░███ ░███░░███░███ ░░█████████    
+              ░███     ░███ ░███ ░███████     ░███    ░███ ░███ ░░██████  ░░░░░░░░███   
+              ░███ ███ ░███ ░███ ░███░░░      ░███    ███  ░███  ░░█████  ███    ░███   
+              ░░█████  ████ █████░░██████     ██████████   █████  ░░█████░░█████████    
+               ░░░░░  ░░░░ ░░░░░  ░░░░░░     ░░░░░░░░░░   ░░░░░    ░░░░░  ░░░░░░░░░     
+
+ [+] Usage:
+	-d/--domain <domain> -w/--wordlist </path/to/wordlist> -i/--ip <IP>
+	-v/--verbose = Verbose mode
+	-h --> Show help panel
 ```
 
 ## Hit-The-Dns with Dnsenum comparation
-
 
 https://github.com/user-attachments/assets/f97bd939-7b29-42bb-829e-be0352a52af1
 
