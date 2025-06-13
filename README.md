@@ -7,13 +7,13 @@
 
 **Hit-The-Dns** is a modern DNS recon tool written in bash which will help you during the DNS recon similar to tools like `subfinder` or `dnsenum`.
 
-- [Installation](https://github.com/juanbelin/Hit-The-DnsInstallation#installation)
-- [Example Usage](https://github.com/juanbelin/Hit-The-DnsInstallation#example-usage)
-	- [DNS Fuzzing](https://github.com/juanbelin/Hit-The-DnsInstallation#dns-fuzzing)
- 	- [Dns Fuzzing verbose mode](https://github.com/juanbelin/Hit-The-DnsInstallation#dns-fuzzing-verbose-mode)
- 	- [cheking dns.logs and following the next step](https://github.com/juanbelin/Hit-The-DnsInstallation#cheking-dns.logs-and-following-the-next-step)
-- [Usage](https://github.com/juanbelin/Hit-The-DnsInstallation#Usage)
-- [Hit-The-Dns with Dnsenum comparation](https://github.com/juanbelin/Hit-The-DnsInstallation#Hit-The-Dns-with-Dnsenum-comparation)
+- [Installation](https://github.com/juanbelin/Hit-The-Dns#installation)
+- [Example Usage](https://github.com/juanbelin/Hit-The-Dns#example-usage)
+	- [DNS Fuzzing](https://github.com/juanbelin/Hit-The-Dns#dns-fuzzing)
+ 	- [Dns Fuzzing verbose mode](https://github.com/juanbelin/Hit-The-Dns#dns-fuzzing-verbose-mode)
+ 	- [cheking dns.logs and following the next step](https://github.com/juanbelin/Hit-The-Dns#cheking-dns.logs-and-following-the-next-step)
+- [Usage](https://github.com/juanbelin/Hit-The-Dns#Usage)
+- [Hit-The-Dns with Dnsenum comparation](https://github.com/juanbelin/Hit-The-Dns#Hit-The-Dns-with-Dnsenum-comparation)
 
 ## Installation 
 ```
