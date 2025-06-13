@@ -44,7 +44,7 @@ https://github.com/user-attachments/assets/fa2420e5-3267-4568-bfa3-fc597894c4ba
 ```
 
 ### cheking dns.logs and following the next step
-the **dns.logs** file will give you the next step in the recon (zone transfer attack) according with the subdmains that the tool has found during the fuzzing.
+The **dns.logs** file will give you the next step in the recon (zone transfer attack) according with the subdmains that the tool has found during the fuzzing.
 
 ![image](https://github.com/user-attachments/assets/257d4d61-3936-43cd-bfc2-0b0cc1990872)
 
