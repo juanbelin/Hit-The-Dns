@@ -86,6 +86,7 @@ https://github.com/user-attachments/assets/fa2420e5-3267-4568-bfa3-fc597894c4ba
 ```
 
 ## Hit-The-Dns with Dnsenum comparation
+Some tools such as dnsemun does not always find the subdomains even if they exist in the DNS because of the way it implements threads and filters.
 
 https://github.com/user-attachments/assets/f97bd939-7b29-42bb-829e-be0352a52af1
 
