@@ -32,6 +32,7 @@ endColour="\033[0m\e[0m"
 # help()
 # valid_ip()
 # check_complete() 
+# ctrl_c()
 # dig_query() 
 # main()
 # semaphore()
