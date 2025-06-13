@@ -1,6 +1,8 @@
-# Hit-The-Dns
+<h1 align="center"> Hit-The-Dns</h1>
 
-![Logo](assets/img/Logo.png)
+<p align="center">
+  <img src="assets/img/Logo.png" alt="Logo" width="300"/>
+</p>
 
 
 **Hit-The-Dns** is a modern DNS recon tool written in bash which will help you during the DNS recon similar to tools like `subfinder` or `dnsenum`.
