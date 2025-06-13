@@ -11,7 +11,7 @@
 - [Example Usage](https://github.com/juanbelin/Hit-The-Dns#example-usage)
 	- [DNS Fuzzing](https://github.com/juanbelin/Hit-The-Dns#dns-fuzzing)
  	- [Dns Fuzzing verbose mode](https://github.com/juanbelin/Hit-The-Dns#dns-fuzzing-verbose-mode)
- 	- [cheking dns.logs and following the next step](https://github.com/juanbelin/Hit-The-Dns#cheking-dns.logs-and-following-the-next-step)
+ 	- [Checking dns.logs and following the next step](https://github.com/juanbelin/Hit-The-Dns#checking-dns.logs-and-following-the-next-step)
 - [Usage](https://github.com/juanbelin/Hit-The-Dns#Usage)
 - [Hit-The-Dns with Dnsenum comparation](https://github.com/juanbelin/Hit-The-Dns#Hit-The-Dns-with-Dnsenum-comparation)
 
@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/fa2420e5-3267-4568-bfa3-fc597894c4ba
 ./hit-the-dns -d test.com -i 10.129.203.6 -w ~/seclists/Discovery/DNS/subdomains-top1million-110000.txt -v
 ```
 
-### cheking dns.logs and following the next step
+### Checking dns.logs and following the next step
 The **dns.logs** file will give you the next step in the recon (zone transfer attack) according with the subdmains that the tool has found during the fuzzing.
 
 ![image](https://github.com/user-attachments/assets/257d4d61-3936-43cd-bfc2-0b0cc1990872)
