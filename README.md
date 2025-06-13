@@ -4,10 +4,13 @@
 
 
 ## Instalation 
+```
+wget https://raw.githubusercontent.com/juanbelin/Hit-The-Dns/refs/heads/main/hit-the-dns.sh
+```
 
-git clone 
-
-
+```
+chmod +x hit-the-dns.sh
+```
 
 ## Example Usage
 
