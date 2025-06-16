@@ -46,6 +46,12 @@ https://github.com/user-attachments/assets/fa2420e5-3267-4568-bfa3-fc597894c4ba
 ### Checking dns.logs and following the next step
 The **dns.logs** file will give you the next step in the recon (zone transfer attack) according with the subdmains that the tool has found during the fuzzing.
 
+
+
+https://github.com/user-attachments/assets/5878ce49-a2e9-44aa-9bd7-5e5bfa3419fa
+
+
+
 ![image](https://github.com/user-attachments/assets/257d4d61-3936-43cd-bfc2-0b0cc1990872)
 
 ![image](https://github.com/user-attachments/assets/568ac592-3c0f-4b06-bcbe-be5f4c952a96)
@@ -87,8 +93,16 @@ The **dns.logs** file will give you the next step in the recon (zone transfer at
 	-h --> Show help panel
 ```
 
+> [!IMPORTANT]
+> Do not forget adding the domain to the `/etc/hosts` file
+> `nano /etc/hosts` and add a new line which contains '10.10.2.1 domain.com'
+
+
 ## Hit-The-Dns with Dnsenum comparation
 Some tools such as dnsemun does not always find the subdomains even if they exist in the DNS because of the way it implements threads and filters.
 
 https://github.com/user-attachments/assets/f97bd939-7b29-42bb-829e-be0352a52af1
 
+
+
+> © 2025 juanbelin. All rights reserved.
