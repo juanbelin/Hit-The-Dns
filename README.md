@@ -103,6 +103,9 @@ Some tools such as dnsemun does not always find the subdomains even if they exis
 
 https://github.com/user-attachments/assets/f97bd939-7b29-42bb-829e-be0352a52af1
 
+<p align="center">
+  <img width="250" src="https://github.com/user-attachments/assets/159cf532-f0db-4101-b634-a3861c10ccc2"
+</p>
 
-
+## License
 > © 2025 juanbelin. All rights reserved.
