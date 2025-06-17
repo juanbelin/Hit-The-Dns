@@ -11,7 +11,7 @@
 - [Example Usage](#example-usage)
   - [DNS Fuzzing](#dns-fuzzing)
   - [Verbose Mode](#dns-fuzzing-verbose-mode)
-  - [Analyzing `dns.logs`](#checking-dnslogs-and-following-the-next-step)
+  - [Analyzing dns.logs](#checking-dnslogs-and-following-the-next-step)
 - [Usage](#usage)
 - [Comparison with Dnsenum](#hit-the-dns-with-dnsenum-comparation)
 - [License](#license)
