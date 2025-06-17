@@ -1,11 +1,11 @@
-<h1 align="center"> Hit-The-Dns</h1>
+<h1 align="center"> Hit-The-Dns (Beta)</h1>
 
 <p align="center">
   <img src="assets/img/Logo.png" alt="Logo" width="300"/>
 </p>
 
 
-**Hit-The-Dns** is a modern DNS recon tool written in bash which will help you during the DNS recon similar to tools like `subfinder` or `dnsenum`.
+**Hit-The-Dns** is a modern open-source DNS recon tool written in bash which will help you during the DNS recon similar to tools like `subfinder` or `dnsenum`.
 
 - [Installation](#installation)
 - [Example Usage](#example-usage)
