@@ -7,13 +7,14 @@
 
 **Hit-The-Dns** is a modern DNS recon tool written in bash which will help you during the DNS recon similar to tools like `subfinder` or `dnsenum`.
 
-- [Installation](https://github.com/juanbelin/Hit-The-Dns#installation)
-- [Example Usage](https://github.com/juanbelin/Hit-The-Dns#example-usage)
-	- [DNS Fuzzing](https://github.com/juanbelin/Hit-The-Dns#dns-fuzzing)
- 	- [Dns Fuzzing verbose mode](https://github.com/juanbelin/Hit-The-Dns#dns-fuzzing-verbose-mode)
- 	- [Checking dns.logs and following the next step](https://github.com/juanbelin/Hit-The-Dns#checking-dns.logs-and-following-the-next-step)
-- [Usage](https://github.com/juanbelin/Hit-The-Dns#Usage)
-- [Hit-The-Dns with Dnsenum comparation](https://github.com/juanbelin/Hit-The-Dns#Hit-The-Dns-with-Dnsenum-comparation)
+- [Installation](#installation)
+- [Example Usage](#example-usage)
+  - [DNS Fuzzing](#dns-fuzzing)
+  - [Verbose Mode](#dns-fuzzing-verbose-mode)
+  - [Analyzing `dns.logs`](#checking-dnslogs-and-following-the-next-step)
+- [Usage](#usage)
+- [Comparison with Dnsenum](#hit-the-dns-with-dnsenum-comparation)
+- [License](#license)
 
 ## Installation 
 ```
